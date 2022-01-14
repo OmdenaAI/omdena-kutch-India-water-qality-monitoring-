@@ -12,7 +12,7 @@ Note : Please Follow the below guidelines to create task folders
 | Task No| Task Name | Details |
 |-|-|-|
 |1| task-1-water-quality-standards        |All the water quality parameters have been listed in this task which includes Inorganic parameters,
- Organic parameters, Parameters relating to acceptability, taste, odour and appearance, Radiological parameters and Microbiological parameters and their standard limits.       |
+                                             Organic parameters, Parameters relating to acceptability, taste, odour and appearance, Radiological parameters and                                                  Microbiological parameters and their standard limits.       |
 |2| task-2-literature-review       |Research papers were reviewed here and important points were noted for different remote sensing data used with machine learning and different satellite sources were revised properly.          |
 |3| task-3-satellite-data       |Various Data sources were searched in Google Earth Engine and relevant sources were selected for our use-case.         |
 |4| task-4-satellite-image-analysis       |Analysed the images from the selected sources and applied various standard formulae were applied to analyse the colours of the water body regions.         |
