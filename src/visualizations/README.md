@@ -2,4 +2,4 @@
 
 #### Hamisar Lake
 
-![alt text](images/Hamisar Lake.png)
+![alt text](./images/Hamisar\Lake.png)
