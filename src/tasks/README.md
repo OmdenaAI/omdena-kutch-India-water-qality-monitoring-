@@ -15,7 +15,7 @@ Note : Please Follow the below guidelines to create task folders
 |2| task-2-literature-review       |Research papers were reviewed here and important points were noted for different remote sensing data used with machine learning and different satellite sources were revised properly.          |
 |3| task-3-satellite-data       |Various Data sources were searched in Google Earth Engine and relevant sources were selected for our use-case.         |
 |4| task-4-satellite-image-analysis       |Analysed the images from the selected sources and applied various standard formulae were applied to analyse the colours of the water body regions.         |
-|5| task-5-water-quality-index-and-parameters-identify       |Final water quality parameters were selected and their names listed along with their band formulae.         |
+|5| task-5-water-quality-parameters-identify       |Final water quality parameters were selected and their names listed along with their band formulae.         |
 |6| task-6-machine-learning       |Various Machine learning models were applied on the final dataframe and the metrics were analysed and the best model was chosen with having a good validation accuracy.         |
 |7| task-7-dashboard       |A visualisation dashboard is created for the public to enter coordinates, their region of interest(water-body) and the data range to get the water quality for that area along with data visualisation display for the collected from the satellite.         |
 |8|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
