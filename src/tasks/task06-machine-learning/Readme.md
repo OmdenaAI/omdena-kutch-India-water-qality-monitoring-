@@ -15,3 +15,5 @@ Training and Testing Data Preparation
 2. We normalised the data using Min-Max scalar
 
 About the Model 
+
+We have used SMOTE to handle the imbalance dataset 
