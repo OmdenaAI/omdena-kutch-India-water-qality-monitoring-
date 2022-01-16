@@ -18,4 +18,4 @@ Note : Please Follow the below guidelines to create task folders
 |5| task-5-water-quality-parameters-identify       |Final water quality parameters were selected and their names listed along with their band formulae.         |
 |6| task-6-machine-learning       |Various Machine learning models were applied on the final dataframe and the metrics were analysed and the best model was chosen with having a good validation accuracy.         |
 |7| task-7-dashboard       |A visualisation dashboard is created for the public to enter coordinates, their region of interest(water-body) and the data range to get the water quality for that area along with data visualisation of the collected data from the satellites.         |
-|8|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+
