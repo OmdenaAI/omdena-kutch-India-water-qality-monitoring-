@@ -6,7 +6,7 @@ Data Pre-processing  and exploration
 
 1. First we concatenated the individual data files. 
 2. Null Values :- nearly 60% of the data had null values so we decided to drop them.
-3. Outliers :- Only dissolved oxygen showed data points outside of the inter-quartile range however to it’s high number, they couldn’t be considered as clear outliers. So, we concluded that there are no outliers.
+3. Outliers :- Dissolved oxygen showed highest data points outside of the inter-quartile range however seeing its percentage and type of spread, we decided to retain them.
 4. No significant correlation between parameters were found except one relation between Dissolved Organic matter and Suspended Matter.  
 
 Training and Testing Data Preparation 
