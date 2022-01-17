@@ -51,4 +51,7 @@
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
+## Project Dashboard Link:
+   https://kutch-water-quality-monitoring.herokuapp.com/
+
 
