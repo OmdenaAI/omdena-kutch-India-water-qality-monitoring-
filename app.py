@@ -291,7 +291,7 @@ elif add_selectbox == 'Select AOI Data Parameters':
         st.text("")
         st.text("")
 
-        st.write(df2)
+        #st.write(df2)
         df_all, test = send_df(df2)
         st.text("")
         st.text("")
